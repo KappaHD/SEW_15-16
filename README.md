@@ -1,2 +1,2 @@
-# SEW_15-16
-Das ist ein Test
+Learning to use git are:
+Florian Wellner 11/HTL
